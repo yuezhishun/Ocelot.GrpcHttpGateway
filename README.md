@@ -1,2 +1,2 @@
 # Ocelot.GrpcHttpGateway
-Ocelot.GrpcHttpGateway
+grpc service used ocelot
